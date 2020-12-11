@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836350895942",
+    "firebase_url": "https://healthyhabits-2020.firebaseio.com",
+    "project_id": "healthyhabits-2020",
+    "storage_bucket": "healthyhabits-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836350895942:android:9291666d09a2ff27696747",
+        "android_client_info": {
+          "package_name": "com.example.healthyhabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836350895942-e7qqe7tnhqiqmnhfjuf73bmott8kmrl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthyhabits",
+            "certificate_hash": "3818df430dbc56af5fab7aab17534d3b872f00bf"
+          }
+        },
+        {
+          "client_id": "836350895942-f97f683pm2kcl5pfupjqe470omfqgfdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgYLOz3asU4Z8eu8PFMNidhqjU58yTNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836350895942-f97f683pm2kcl5pfupjqe470omfqgfdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
